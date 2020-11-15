@@ -1,0 +1,16 @@
+books{color:#6A5ACD; background-color:#E0FFFF; width:100%;}
+
+heading{
+color:#F08080; 
+font-size:40px; 
+background-color:#FFE4E1; 
+}
+
+heading,title,author,publisher{
+display:block; 
+}
+
+title{
+font-size:25px; 
+font-weight:bold; 
+}
